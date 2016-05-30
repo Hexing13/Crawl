@@ -2,6 +2,7 @@
   <library name="Maven: commons-logging:commons-logging:1.2">
     <CLASSES>
       <root url="jar://$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.2/commons-logging-1.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/mysql-jdbc.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.2/commons-logging-1.2-javadoc.jar!/" />
